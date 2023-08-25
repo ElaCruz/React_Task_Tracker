@@ -1,0 +1,31 @@
+.task{
+    color: white;
+}
+
+.task-close{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: -10px;
+}
+
+.task {
+    background-color: #7bc7fd28;;
+    padding: 1px 16px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+.closeX{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: red !important;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.reminder{
+    border-left: 5px solid #7bc6fd;
+}
+
+
